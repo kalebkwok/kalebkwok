@@ -1,4 +1,4 @@
-### Hey 👋, I'm Kaleb Guo.
+# Hey 👋, I'm Kaleb Guo.
 
 
 <a href="https://www.zhihu.com/people/kaleb-86">
@@ -8,8 +8,7 @@
   <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 <a href="https://www.linkedin.com/in/kaleb-kwok/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg
-" />
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
 </a>
 <a href="https://ilab.cs.ucsb.edu/">
   <img align="left" alt="Research" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/pytorch.svg" />
@@ -23,13 +22,14 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🎓 I am currently a B.S. in Computer Science student of **University of California, Santa Barbara**.
-* 💼   Used to be a Staff Engineer at Binance.com, but now I'm a CMU Student.
+*👨🎓  I am currently a B.S. in Computer Science student of **University of California, Santa Barbara**.
+* 💼   I am a Research assiant on UCSB Four Eyes Lab.
 * 🧐   Interested in javascrpt based full stack. Recent focus on React.
 * 🌱   Currently learning React.js, Next.js, AWS, Solidity, and Polygon.
 * 📚   Reading 《Database System Concepts (7th Edition)》《Designing Data-Intensive Applications》.
 * ⛵   Encouraging people for open source collaborations.
 - My email is: **kalebguo@gmail.com**.
+
 
 
 * 👑   Some GitHub statistical reports:
