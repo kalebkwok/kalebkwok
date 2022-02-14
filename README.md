@@ -12,7 +12,7 @@
 " />
 </a>
 <a href="https://ilab.cs.ucsb.edu/">
-  <img align="left" alt="FourEyesLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/pytorch.svg" />
+  <img align="left" alt="Research" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/pytorch.svg" />
 </a>
 <a href="mailto: kalebguo@gmail.com ">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
@@ -50,7 +50,7 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/css3.svg"></code>
 
 
-**Development Framework**
+**Development Framework:**
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/redux.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/next-dot-js.svg"></code>
@@ -60,7 +60,7 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/scikit-learn.svg"></code>
 
 
-**Databases/Toolbox**
+**Databases/Toolbox:**
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mongodb.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/postgresql.svg"></code>
