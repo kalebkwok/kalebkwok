@@ -22,7 +22,7 @@
 
 **Talking about Personal Stuffs:**
 
-*👨🎓  I am currently a B.S. in Computer Science student of **University of California, Santa Barbara**.
+* 🎓  I am currently a B.S. in Computer Science student of **University of California, Santa Barbara**.
 * 💼   I am a Research assiant on UCSB Four Eyes Lab.
 * 🧐   Interested in javascrpt based full stack. Recent focus on React.
 * 🌱   Currently learning React.js, Next.js, AWS, Solidity, and Polygon.
