@@ -1,9 +1,7 @@
 # Hey 👋, I'm Kaleb Guo.
 
 
-<a href="https://www.zhihu.com/people/kaleb-86">
-  <img align="left" alt="Zhihu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/zhihu.svg" />
-</a>
+
 <a href="https://leetcode-cn.com/u/kalebkwok/">
   <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
@@ -15,6 +13,9 @@
 </a>
 <a href="mailto: kalebguo@gmail.com ">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
+</a>
+<a href="https://www.zhihu.com/people/kaleb-86">
+  <img align="left" alt="Zhihu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/zhihu.svg" />
 </a>
 <br />
 <br />
