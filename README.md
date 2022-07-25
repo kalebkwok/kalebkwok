@@ -25,7 +25,7 @@
 
 * 🎓  I am currently a B.S. in Computer Science student of **University of California, Santa Barbara**.
 * 💼   I am a Research assiant on UCSB Four Eyes Lab.
-* 🧐   Interested in javascrpt based full stack. Recent focus on React.
+* 🧐   Interested in JavaScript based full stack. Recent focus on React.
 * 🌱   Currently learning React.js, Next.js, AWS, Solidity, and Polygon.
 * 📚   Reading 《Database System Concepts (7th Edition)》《Designing Data-Intensive Applications》.
 * ⛵   Encouraging people for open source collaborations.
